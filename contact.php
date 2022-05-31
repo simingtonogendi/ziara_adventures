@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Ziara</title>
+    <title>Ziara Adventures #TWENDEZIARA</title>
 
     <meta name="description" content="">
     <meta name="author" content="">
@@ -19,9 +19,9 @@
 
 
     <link rel="apple-touch-icon" sizes="144x144" href="assets/img/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16x16.png">
-    <link rel="icon" sizes="16x16" href="assets/img/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/mstile-150x150.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/mstile-150x150.png">
+    <link rel="icon" sizes="16x16" href="assets/img/mstile-150x150.png">
     <link rel="manifest" href="assets/img/manifest.json">
     <link rel="mask-icon" href="assets/img/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="theme-color" content="#ffffff">
@@ -97,7 +97,7 @@
 
                     <!-- Name -->
                     <div class="page -scroll site-logo">
-                        <a href="#top"><img src="assets/img/mstile-150x150.png" width="100" height="63" alt="logo"></a>
+                        <a href="#top"><img src="assets/img/mstile-150x150.png" width="100" height="80" alt="logo"></a>
                     </div>
 
                 </div><!-- /.navbar-header -->
@@ -112,6 +112,8 @@
                         <div class="dropdown-menu">
                             <a class="dropdown-header" href="adventure_travel.php">Adventure travel</a><br>
                             <a class="dropdown-header" href="team_building.php">Team Building</a><br>
+                            <a class="dropdown-header" href="beach_adventure.php">Beach Adventure</a><br>
+                            <a class="dropdown-header" href="bush_adventure.php">Bush Adventure</a><br>
                         </div>
                     </li>
                     <li class="page-scroll"><a href="portfolio.php">Portfolio</a></li>
@@ -134,7 +136,14 @@
                     <h2 class="wow bounceIn" data-wow-offset="50" data-wow-delay="0.3s">CONTACT <span>ZIARA ADVENTURES </span>TODAY</h2>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-offset="50" data-wow-delay="0.9s">
-                    <form action="connect.php" name="form_contact" method="post">
+                    <form action="https://formsubmit.co/travel@ziaraadventures.com" target="_blank" rel="noopener noreferrer" name="form_contact" method="post">
+
+                        <input type="text" name="honey" style="display: none;">
+
+                        <input type="hidden" name="_captcha" value="false">
+
+                        <input type="hidden" name="next" value="http://localhost/phpmyadmin/index.php?route=/database/structure&db=ziara_adventures/reach_us.php">
+
                         <label>NAME</label>
 
                         <input name="fullname" required=required type="text" class="form-control da" id="fullname">
@@ -157,8 +166,9 @@
                         <span>Communicate and access our in-house team today. For support, please write your message; we'll respond as soon as possible.</span>
                         <br>
                         <p><i class="fa fa-phone"></i> +254711715835/+254729471295</p> <br>
+                        <p><i class="fa fa-whatsapp"></i> +254113579573</p><br>
                         <p><i class="fa fa-envelope-o"></i> travel@ziaraadventures.com</p> <br>
-                        <p><i class="fa fa-map-marker"></i> Master Made Studios, Scenic Apartments, Block 6</p> <br>
+                        <p><i class="fa fa-map-marker"></i> Scenic Apartments, Block 6, Rose Avenue</p> <br>
                     </address>
                     <ul class="social-icon">
                         <h3>WE ARE SOCIAL:</h3> <h4>CONNECT WITH US TODAY</h4>
@@ -172,10 +182,10 @@
 
     <section class="section-networks blue-bg">
         <div class="container">
-            <a href="https://www.facebook.com/ZiaraAdventures" class="rectangle">
+            <a href="https://www.facebook.com/ZiaraAdventures" target="_blank" rel="noopener noreferrer" class="rectangle">
                 <i class="fa fa-facebook"></i>
             </a>
-            <a href="https://bit.ly/2Oi1tyN" class="rectangle">
+            <a href="https://bit.ly/2Oi1tyN" target="_blank" rel="noopener noreferrer" class="rectangle">
                 <i class="fa fa-instagram"></i>
             </a>
             <a href="#" class="rectangle">
@@ -184,27 +194,29 @@
             <a href="#" class="rectangle">
                 <i class="fa fa-youtube-play"></i>
             </a>
+
         </div>
     </section><!-- /.section-networks-->
+
 </main>
 
-<footer id="colophon" class="site-footer">
+    <footer id="colophon" class="site-footer">
 
-    <div class="container-fluid">
+        <div class="container-fluid">
 
-        <div class="page-scroll">
-            <a href="#top" class="rectangle">
-                <i class="fa fa-angle-double-up"></i>
-            </a>
+            <div class="page-scroll">
+                <a href="#top" class="rectangle">
+                    <i class="fa fa-angle-double-up"></i>
+                </a>
+            </div>
+
         </div>
 
-    </div>
+        <div class="container text-center">
+            <p class="copyright">&copy; <a href="">ZiaraAdventures</a> - 2022</p>
+        </div>
 
-    <div class="container text-center">
-        <p class="copyright">&copy; <a href="http://pixelperfect.mk/" target="_blank">ZiaraAdventures</a> - 2022</p>
-    </div>
-
-</footer><!-- /#footer -->
+    </footer><!-- /#footer -->
 
 
 

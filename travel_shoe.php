@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Ziara</title>
+    <title>Ziara Adventures #TWENDEZIARA</title>
 
     <meta name="description" content="">
     <meta name="author" content="">
@@ -110,6 +110,8 @@
                         <div class="dropdown-menu">
                             <a class="dropdown-header" href="adventure_travel.php">Adventure travel</a><br>
                             <a class="dropdown-header" href="team_building.php">Team Building</a><br>
+                            <a class="dropdown-header" href="beach_adventure.php">Beach Adventure</a><br>
+                            <a class="dropdown-header" href="bush_adventure.php">Bush Adventure</a><br>
                         </div>
                     </li>
                     <li class="page-scroll"><a href="portfolio.php">Portfolio</a></li>
@@ -132,39 +134,57 @@
                     <section class="container">
                         <div>
                             <h1 style="font-size: 65px;">What is in a Travel Shoe?</h1>
-                            <img src="assets/img/trshoe.jpg" width="1200" height="550" alt="">
+                            <br>
+                            <img src="assets/img/trshoe.jpg" width="100%" height="auto" alt="">
+                            <br><br>
                             <p style="color: grey;font-size: 30px;">Shoes are possibly the most underrated travel essentials globally. This could be because we are always in shoes anyway. All the same, there are some things, other than color and size, you need to look out for when picking a travel shoe.</p>
+                            <br><br>
                         </div>
                         <ul>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Airport Friendly travel shoes</h1>
-                                <img src="assets/img/airport.jpg" alt="">
+                                <br><br>
+                                <img src="assets/img/airport.jpg" width="100%" height="auto"  alt="">
+                                <br><br>
                                 <p style="color: grey;font-size: 25px;">Airport security is a necessary evil. You love the fact that you are safe, but you hate all the undressing and dressing that takes so much of your time and energy. Ok, so when most people are going for a safari or adventure, they will be in ‘beltless’ trousers or shorts, a T-shirt or jersey, and will most definitely have left or packed away their expensive watch. So that is half the battle won.</p>
                                 <p style="color: grey;font-size: 25px;">When it comes to selecting your travel shoe, pick out a pair that is easy to slip on and off, has no shoelaces, or has locked laces. Locked laces could mean something as simple as tying your laces loosely and knotting them at each end to make them easy to remove and put back no or purchasing the lock and installing as demonstrated above. The most airport-friendly travel shoes, therefore, are loafers, sandals, or as we prefer to call them “open shoes”.</p>
+                                <br><br>
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Road Trip Shoes</h1>
-                                <img src="assets/img/road.jpg" alt="">
+                                <br><br>
+                                <img src="assets/img/road.jpg" width="100%" height="auto"  alt="">
+                                <br><br>
                                 <p style="color: grey;font-size: 25px;">We all know at least one person we can classify as a ‘you guy my guy’ kind of person, you know the let’s go to vasha in my moti type of live life large… okay you get it! Observe closely the shoes they pick out for these road trips. They are comfortable, breathable, easy to remove, lightweight, very very easy to pack and clean. When driving for long hours, you need just that!</p>
                                 <p style="color: grey;font-size: 25px;">Sometimes passengers on these road trips like to remove their shoes and will put them on in a jiffy for a toilet run. At this point, you will be happy to have your road trip shoes. Again, sandals top this list, lightweight sneakers or running shoes, loafers, crocs, and your converse shoes… read old skool… make the best options for a road trip.</p>
+                                <br><br>
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Trekking/Hiking and adventure travel shoe</h1>
-                                <img src="assets/img/trek.jpg" alt="">
+                                <br><br>
+                                <img src="assets/img/trek.jpg" width="100%" height="auto"  alt="">
+                                <br><br>
                                 <p style="color: grey;font-size: 25px;">Growing up there was this illegal game we used to play where we would pour water down a slope (or wait for the rain) then slide down to the bottom of the hill on our bottoms. Of course, those same bottoms would be the receiving end of whatever our parents had at hand but I digress…</p>
                                 <p style="color: grey;font-size: 25px;">The aim of hiking is to get to the summit therefore you need shoes with grip to get you there. You need comfortable shoes because by God hills and mountains are not the cozy type. In primary school, we were taught that the higher you go, the cooler it becomes… no one mentioned that it also gets wetter!</p>
                                 <p style="color: grey;font-size: 25px;">So, you need waterproof shoes. Essentially, you need a good combination of the 3 which is best found in hiking boots. They are like macadamia nuts… hard on the outside and softer on the inside. You can get mountain climbing boots, rock climbing boots, or basic trekking boots to suit your need but for heaven’s sake do not come in sneakers because the fall that awaits you will be massive and very very embarrassing.</p>
+                                <br><br>
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Beach shoes</h1>
-                                <img src="assets/img/walk.jpg" alt="">
+                                <br><br>
+                                <img src="assets/img/walk.jpg" width="100%" height="auto"  alt="">
+                                <br><br>
                                 <p style="color: grey;font-size: 25px;">Kenya has the whitest sandy beaches on its coastal shore of Mombasa and on Takawiri island in Lake Victoria. These are awesome spots to just chill and enjoy your holiday. This holiday can be very relaxing or very uncomfortable depending on the shoe you choose. Open shoes take the day here. They allow sand and air in and let them out just as fast. This creates a cooling effect in the hot coastal weather. I can bet we have all had that one pebble in our shoes and we know how uncomfortable that feels. Now add the coastal heat and voila! You now know why closed shoes at the beach are a big no!</p>
+                                <br><br>
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Business Travel shoe</h1>
-                                <img src="assets/img/business.jpg" alt="">
+                                <br><br>
+                                <img src="assets/img/business.jpg" width="100%" height="auto"  alt="">
+                                <br><br>
                                 <p style="color: grey;font-size: 25px;">Because business travel is all about work, we seldom consider it an adventure. However, just because we have all our work equipment with us and our boss can call us at any time doesn’t beat the fact that you have the most important adventure tool; yourself! So how do we mix business and pleasure in the same shoe? We get loafers!
                                     They are airport friendly, they look good with our work clothes and they fit easily into hand luggage and can be swapped for sandals for an evening stroll. They are naturally light weight, can be wiped clean in a second and are very comfortable regardless of the weather.</p>
+                                <br><br>
                             </li>
                         </ul>
                         <br><br><br>
@@ -213,10 +233,10 @@
 
         <section class="section-networks blue-bg">
             <div class="container">
-                <a href="https://www.facebook.com/ZiaraAdventures" class="rectangle">
+                <a href="https://www.facebook.com/ZiaraAdventures" target="_blank" rel="noopener noreferrer" class="rectangle">
                     <i class="fa fa-facebook"></i>
                 </a>
-                <a href="https://bit.ly/2Oi1tyN" class="rectangle">
+                <a href="https://bit.ly/2Oi1tyN" target="_blank" rel="noopener noreferrer" class="rectangle">
                     <i class="fa fa-instagram"></i>
                 </a>
                 <a href="#" class="rectangle">
@@ -225,6 +245,7 @@
                 <a href="#" class="rectangle">
                     <i class="fa fa-youtube-play"></i>
                 </a>
+
             </div>
         </section><!-- /.section-networks-->
 
@@ -232,8 +253,18 @@
 
     <footer id="colophon" class="site-footer">
 
+        <div class="container-fluid">
+
+            <div class="page-scroll">
+                <a href="#top" class="rectangle">
+                    <i class="fa fa-angle-double-up"></i>
+                </a>
+            </div>
+
+        </div>
+
         <div class="container text-center">
-            <p class="copyright">&copy; <a href="" target="_blank">ZiaraAdventures</a> - 2022</p>
+            <p class="copyright">&copy; <a href="">ZiaraAdventures</a> - 2022</p>
         </div>
 
     </footer><!-- /#footer -->

@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Ziara</title>
+    <title>Ziara Adventures #TWENDEZIARA</title>
 
     <meta name="description" content="">
     <meta name="author" content="">
@@ -134,46 +134,65 @@
                     <section class="container">
                         <div>
                             <h1 style="font-size: 65px;">Hidden adventure gems in Kenya</h1>
-                            <img src="assets/img/adv.jpg" width="1200" height="550" alt="">
+                            <br>
+                            <img src="assets/img/adv.jpg" width="100%" height="auto" alt="">
+                            <br><br>
                             <p style="color: grey;font-size: 30px;">Tired of visiting the same places over and over again? We have your back! Below are some hidden adventure gems in Kenya, some of which you might be discovering for the very first time. Do let us know in the comment section how many you have visited and what your experience was!</p>
+                            <br><br>
                         </div>
                         <ol>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Saiwa Swamp</h1>
-                                <img src="assets/img/saiwa.jpg" alt="">
+                                <br>
+                                <img src="assets/img/saiwa.jpg" width="100%" height="auto" alt="">
+                                <br><br>
                                 <p style="color: grey;font-size: 25px;">This is Kenya’s smallest national park. It is located in Trans-Nzoia county near Kitale and is home to the rare semi-aquatic Sitatunga Antelope and the rare De Brazza’s Monkey. The park has been described as an enchanting cool shaded and compact space that is great for dawn and dusk walks. The Saiwa swamp has a great balance of forest and swamp vegetation and is packed with numerous bird species. The swamp is fed by the Saiwa River and the riverine forest which is home to the Noisy Ross’s turacos amongst other birds that are easy to spot.</p>
+                                <br><br>
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Chalbi Desert</h1>
-                                <img src="assets/img/vacancy.jpg" alt="">
+                                <br>
+                                <img src="assets/img/vacancy.jpg" width="100%" height="auto" alt="">
+                                <br><br>
                                 <p style="color: grey;font-size: 25px;">It is a small desert in Marsabit county near the border with Ethiopia. The Chalbi Desert is composed of saline and alkaline sediments and stabilized sand dunes; a resulting formation of the old bed of Lake Chalbi. The eerie landscape edged by rocky lava flows cracked earth, and a sandy mixture of white salt and clay never gets old. This, coupled with the random sightings of ostrich, zebra and other animals like the Oryx, makes the desert a stunning location for an adventure.</p>
                                 <p style="color: grey;font-size: 25px;">Besides the dryness, this hidden adventure gem has an area of oases with groves of palm trees that attract sand grouse and other birds including vulturine guinea fowls. To the north of the dessert stand the Huri Hills and Mount Forole which have cooler temperatures and provide a reprieve from the harshness of the hottest part of Kenya.</p>
-
+                                <br><br>
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">The Hidden Adventure Gem Takawiri Island</h1>
-                                <img src="assets/img/takawiri.jpg" alt="">
+                                <br>
+                                <img src="assets/img/takawiri.jpg" width="100%" height="auto" alt="">
+                                <br><br>
                                 <p style="color: grey;font-size: 25px;">Kenya is famous for white sandy beaches along its coastal strip of Mombasa. Many tourists and locals head to these beaches for a good time. Little do they know that Kenya has more sandy beaches in the largest fresh water lake in Africa; Lake Victoria.
                                     Takawiri island is one of the many islands in Lake Victoria and also one of the least famous. Unlike most islands, Takawiri has white sandy beaches and cool equatorial breezes thanks to the palm trees growing there. It is only about an hour’s boat ride from the more famous Rusinga Island and is a beautiful location for a chill weekend.</p>
+                                <br><br>
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Lake Chala</h1>
-                                <img src="assets/img/chala.jpg" alt="">
+                                <br>
+                                <img src="assets/img/chala.jpg" width="100%" height="auto" alt="">
+                                <br><br>
                                 <p style="color: grey;font-size: 25px;">This lake formed approximately 251,000 years ago. It is located to the east of Mount Kilimanjaro, 8 kilometers (5.0 mi) north of Taveta, Kenya, and 55 kilometers (34 mi) east of Moshi, Tanzania. This crater lake offers great views of the Great Mt. Kilimanjaro on clear mornings and is surrounded by a steep crater. It is probably Kenya’s best-kept secret!</p>
                                 <p style="color: grey;font-size: 25px;">The lake is crocodile free which makes it easy for locals to fish and tourists to swim in the calm, green, blue, or turquoise waters.</p>
                                 <p style="color: grey;font-size: 25px;">You can easily spot elephants and other grazers from the Tsavo national park and several bird species that fill the air with their various calls. This is definitely a hidden adventure gem in Kenya.</p>
+                                <br><br>
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Dragons Teeth Hidden Adventure Gem</h1>
-                                <img src="assets/img/dragon.jpg" alt="">
+                                <br>
+                                <img src="assets/img/dragon.jpg" width="100%" height="auto" alt="">
                                 <p style="color: grey;font-size: 25px;">Aberdare National Park is located north of Nairobi and stretches over a wide variety of terrain at altitudes from 2,000 meters (6,600 ft) to 4,000 meters (13,000 ft). Dragons teeth are a sporadic rock formation rising from the Aberdares near the highest peak Satima standing at 4001m above sea level.</p>
                                 <p style="color: grey;font-size: 25px;">The rock formation is a great spot for seasoned rock climbers and an even more stunning place for old-school campers. There are no facilities so we encourage you to carry all your supplies for a night out including and especially water. Camping in between the rock formations allows you to enjoy the amazing dawn and dusk hues and really connects you to nature like nowhere else in Kenya.</p>
+                                <br><br>
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Marafa Hells Kitchen</h1>
-                                <img src="assets/img/adventure-2.jpg" alt="">
+                                <br>
+                                <img src="assets/img/adventure-2.jpg" width="100%" height="auto" alt="">
+                                <br><br>
                                 <p style="color: grey;font-size: 25px;">I live for the stories attached to nature and the cultural truths they express. So, Marafa Hells kitchen excites me for the fact that it is like a story with a solid meaning at the end. Legend has it that the Marafa depression was caused long ago by God’s wrath on a local family. The family was rich and extravagant, that they indulged in bathing in the valuable milk from their cows. God was so furious with the excessive behavior that he punished them by opening the ground beneath them which is what you see today in the Marafa depression.</p>
                                 <p style="color: grey;font-size: 25px;">Located just a few kilometers from Malindi town, the sandstone canyon or Marafa depression stands majestically and unperturbed.  Sundowns are the best. The dusk hues give the great blend of colors more vibrancy with the whites, oranges, pinks, and crimson colors filling up every inch of the gorge. These views will undoubtedly take your breath away!</p>
+                                <br><br>
                             </li>
                         </ol>
                         <br><br><br>
@@ -195,26 +214,29 @@
                 <div class="col-md-3">
                     <h1>Featured</h1>
                     <ul class="submenu">
-                        <li style="font-size: 25px;"><a href="">What's in a travel shoe?</a></li>
-                        <li style="font-size: 25px;"><a href="">Travel lessons from WRC safari rally in Naivasha</a></li>
-                        <li style="font-size: 25px;"><a href="">Travel and enjoy: Mombasa County 001</a></li>
-                        <li style="font-size: 25px;"><a href="">Importance of team building</a></li>
+                        <li style="font-size: 25px;"><a href="travel_shoe.php">What's in a travel shoe?</a></li>
+                        <li style="font-size: 25px;"><a href="travel_lessons.php">Travel lessons from WRC safari rally in Naivasha</a></li>
+                        <li style="font-size: 25px;"><a href="mombasa.php">Travel and enjoy: Mombasa County 001</a></li>
+                        <li style="font-size: 25px;"><a href="team.php">Importance of team building</a></li>
                     </ul>
                     <hr>
                     <img class="center-block" src="assets/img/mstile-150x150.png" height="300" width="300" alt="">
                     <hr>
                     <h1>Check it out!</h1>
                     <ul class="submenu">
-                        <li style="font-size: 25px;"><a href="">Places to go camping in Kenya</a></li>
-                        <li style="font-size: 25px;"><a href="">Best picks for bird watching in kenya</a></li>
-                        <li style="font-size: 25px;"><a href="">Deep sea fishing in the indian Ocean</a></li>
+                        <li style="font-size: 25px;"><a href="camping.php">Places to go camping in Kenya</a></li>
+                        <li style="font-size: 25px;"><a href="bird-watching.php">Best picks for bird watching in kenya</a></li>
+                        <li style="font-size: 25px;"><a href="deep_fishing.php">Deep sea fishing in the indian Ocean</a></li>
 
                     </ul>
                     <br><br><br><br>
-                    <ul>
-                        <li><p style="font-size: 25px;color: #0b2e13;">Why do you go away? So that you can come back. So that you can see the place you came from with new eyes and extra colors. And the people there see you differently, too. Coming back to where you started is not the same as never leaving.</p></li>
-                        <li><p style="font-size: 25px;color: #0b2e13;"> And then there is the most dangerous risk of all – the risk of spending your life not doing what you want on the bet you can buy yourself the freedom to do it later.</p></li>
-                    </ul>
+                    <div>
+                        <h2>Why Adventure?</h2>
+                        <ul>
+                            <li><p style="font-size: 25px;color: #0b2e13;">Why do you go away? So that you can come back. So that you can see the place you came from with new eyes and extra colors. And the people there see you differently, too. Coming back to where you started is not the same as never leaving.</p></li>
+                            <li><p style="font-size: 25px;color: #0b2e13;"> And then there is the most dangerous risk of all – the risk of spending your life not doing what you want on the bet you can buy yourself the freedom to do it later.</p></li>
+                        </ul>
+                    </div>
                 </div>
 
             </div>
@@ -222,10 +244,10 @@
 
         <section class="section-networks blue-bg">
             <div class="container">
-                <a href="https://www.facebook.com/ZiaraAdventures" class="rectangle">
+                <a href="https://www.facebook.com/ZiaraAdventures" target="_blank" rel="noopener noreferrer" class="rectangle">
                     <i class="fa fa-facebook"></i>
                 </a>
-                <a href="https://bit.ly/2Oi1tyN" class="rectangle">
+                <a href="https://bit.ly/2Oi1tyN" target="_blank" rel="noopener noreferrer" class="rectangle">
                     <i class="fa fa-instagram"></i>
                 </a>
                 <a href="#" class="rectangle">
@@ -234,6 +256,7 @@
                 <a href="#" class="rectangle">
                     <i class="fa fa-youtube-play"></i>
                 </a>
+
             </div>
         </section><!-- /.section-networks-->
 
@@ -241,8 +264,18 @@
 
     <footer id="colophon" class="site-footer">
 
+        <div class="container-fluid">
+
+            <div class="page-scroll">
+                <a href="#top" class="rectangle">
+                    <i class="fa fa-angle-double-up"></i>
+                </a>
+            </div>
+
+        </div>
+
         <div class="container text-center">
-            <p class="copyright">&copy; <a href="" target="_blank">ZiaraAdventures</a> - 2022</p>
+            <p class="copyright">&copy; <a href="">ZiaraAdventures</a> - 2022</p>
         </div>
 
     </footer><!-- /#footer -->

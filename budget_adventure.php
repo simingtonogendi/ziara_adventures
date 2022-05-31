@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Ziara</title>
+    <title>Ziara Adventures #TWENDEZIARA</title>
 
     <meta name="description" content="">
     <meta name="author" content="">
@@ -19,9 +19,9 @@
 
 
     <link rel="apple-touch-icon" sizes="144x144" href="assets/img/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16x16.png">
-    <link rel="icon" sizes="16x16" href="assets/img/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/mstile-150x150.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/mstile-150x150.png">
+    <link rel="icon" sizes="16x16" href="assets/img/mstile-150x150.png">
     <link rel="manifest" href="assets/img/manifest.json">
     <link rel="mask-icon" href="assets/img/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="theme-color" content="#ffffff">
@@ -110,8 +110,8 @@
                         <div class="dropdown-menu">
                             <a class="dropdown-header" href="adventure_travel.php">Adventure travel</a><br>
                             <a class="dropdown-header" href="team_building.php">Team Building</a><br>
-                            <a class="dropdown-header" href="team_building.php">Bush Adventure</a><br>
-                            <a class="dropdown-header" href="team_building.php">Beach Adventure</a><br>
+                            <a class="dropdown-header" href="beach_adventure.php">Beach Adventure</a><br>
+                            <a class="dropdown-header" href="bush_adventure.php">Bush Adventure</a><br>
                         </div>
                     </li>
                     <li class="page-scroll"><a href="portfolio.php">Portfolio</a></li>
@@ -134,56 +134,83 @@
                     <section class="container">
                         <div>
                             <h1 style="font-size: 65px;">10 Budget-friendly adventure tips</h1>
-                            <img src="assets/img/budget.jpg" width="1200" height="550" alt="">
+                            <br>
+                            <img src="assets/img/budget.jpg" width="100%" height="auto" alt="">
+                            <br><br>
                             <p style="color: grey;font-size: 30px;">Ziara adventures is home to budget-friendly adventures. Over the years, we have found the following 10 budget-friendly tips tips to reign superior for any ardent traveler.</p>
+                            <br><br>
                         </div>
                         <ol>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Plan out your adventure</h1>
-                                <img src="assets/img/plan.jpg" alt="">
+                                <br>
+                                <img src="assets/img/plan.jpg" width="100%" height="auto" alt="">
+                                <br><br>
                                 <p style="color: grey;font-size: 25px;">This may sound counter intuitive when you consider that some of the most epic adventures are spontaneous, but hear us out. If you are ready to do budget friendly adventure the right way then to start off, you do not have too much money to spend. You cannot afford to waste time or money on this trip so you must plan. Determine how many days you want to spend, where you want to go and most importantly how much you want to spend.</p>
+                                <br><br>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Go for an off-season trip</h1>
+                                <br>
                                 <p style="color: grey;font-size: 25px;">Travel can be outrageously expensive in the peak seasons. This is the time everyone gets to travel and so the demand pushes prices up. Once that season is done, the facilities remain and the hospitality industry experiences a slump. This is the best time to go to that exotic place, that lovely park or that usually overbooked hotel you fancy. The demand is low hence the prices are also low and very affordable.</p>
+                                <br><br>
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Plan your accommodation</h1>
+                                <br>
                                 <p style="color: grey;font-size: 25px;">Accommodation is one of the most expensive items in any travel list. Scan the area for available and affordable accommodation options and skip the larger hotels that cost a mighty coin. Budget friendly accommodation options include Air BnB’s, lodges and drive in motels or even smaller hotels in the town (shed off a few stars for cheap comfort).</p>
+                                <br><br>
 
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Travel light</h1>
-                                <img src="assets/img/travel.jpg" alt="">
+                                <br>
+                                <img src="assets/img/travel.jpg" width="100%" height="auto" alt="">
+                                <br><br>
                                 <p style="color: grey;font-size: 25px;">You cannot afford to have a gazillion bags on a budget- friendly adventure so pack light! Carry a couple of your favorite jeans, some light tees, one sweater/hoodie and a jacket for rainy weather. Pack your most comfortable shoes, sandals that can also be used in the shower if need be and a pair of boots if hiking is part of your itinerary.</p>
                                 <p style="color: grey;font-size: 25px;">Use compact dry towels if you must, repack your lotion and sunscreen into smaller jars and get a foldable travel toothbrush. Also pack clothes that do not need ironing, unless you have the small travel iron with you.</p>
+                                <br>
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;"> Group travel</h1>
-                                <img src="assets/img/group.avif" alt="">
+                                <br>
+                                <img src="assets/img/group.jpg" width="100%" height="auto" alt="">
+                                <br><br>
                                 <p style="color: grey;font-size: 25px;">This is our specialty here at Ziara Aventures and boy isn’t it a saver! The advantages of group travel are exponential and are the best for any budget-conscious traveler. Your transport costs are greatly reduced, your food is sourced in bulk hence cheaper, you have more fun, meet more interesting (and not so interesting) people and you get to see the world with a group of strangers who make those memories even better!</p>
+                                <br><br>
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Book in advance</h1>
-                                <p>Save a few coins off of anything that you need to book, by paying in advance. Become an early birdie if you must but this will go a long way in saving you cash to do more on your trip.</p>
+                                <br>
+                                <p style="color: grey;font-size: 25px;">Save a few coins off of anything that you need to book, by paying in advance. Become an early birdie if you must but this will go a long way in saving you cash to do more on your trip.</p>
                                 <p style="color: grey;font-size: 25px;">Some of the perks that come with advance payments include forced discipline. You cannot spend that cash on anything else if you do not have it on hand, you must be on time or risk losing the money altogether and you get to pick the best before anyone else does.</p>
+                                <br><br>
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Buy essentials beforehand</h1>
-                                <p style="color: grey;font-size: 25px;">Have you ever noticed how bottled water costs more than refilling your water bottle? Yes carry your own bottle and you may end up spending 0 on water costs wherever you go. Buy your sunscreen, sun hats and swimming gear before you travel as is is much more expensive at the beach!</p>
+                                <br>
+                                <p style="color: grey;font-size: 25px;">Have you ever noticed how bottled water costs more than refilling your water bottle? Yes carry your own bottle and you may end up spending 0 on water costs wherever you go. Buy your sunscreen, sun hats and swimming gear before you travel as is much more expensive at the beach!</p>
+                                <br><br>
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Be streetwise</h1>
+                                <br>
                                 <p style="color: grey;font-size: 25px;">Tourists mostly get the worst deals when buying stuff. The new accent increases the price of goods to double or triple the original amount any local can get it for. Do your own research before hand to know what price range to go for when bargaining. Try the local food or merchandise market as opposed to the tourist targeted stores, the margins will surprise you.</p>
+                                <br><br>
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Plan for transport</h1>
+                                <br>
                                 <p style="color: grey;font-size: 25px;">This is probably the number one cost on any travel budget. Flights can be very expensive, so take a bus if you can. In cases where you must fly to your destination, book a weekday flight, make it economy if you must but do all you can to save any extra cash. In any case, you and the person in Business class will still get to the same destination, and at the same time, no?</p>
                                 <p style="color: grey;font-size: 25px;">On the same note, avoid cabs as much as you can and where possible use public transport, tuk tuks, motorcycles. They are cheaper and get you there faster. They may also take you through a route you had not included in your itinerary which is a plus for you!On the same note, avoid cabs as much as you can and where possible use public transport, tuk tuks, motorcycles. They are cheaper and get you there faster. They may also take you through a route you had not included in your itinerary which is a plus for you!</p>
+                                <br><br>
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Quality food selection</h1>
-                                <img src="assets/img/food.jpg" alt="">
+                                <br>
+                                <img src="assets/img/food.jpg" width="100%" height="auto" alt="">
+                                <br><br>
                                 <p style="color: grey;font-size: 25px;">This is a widely known fact, but probably the most ignored by tourists all over the world. Street food is cheaper, and in most cases healthier than hotel food. The speed at which street food is consumed ensures you never get yesterday’s leftovers and chances that your stomach will complain later are close to none. If you are booked into an Air BnB, get your food supplies from the local farmers market, it is cheaper and fresher there.</p>
+                                <br><br>
                             </li>
                         </ol>
                         <div>
@@ -200,26 +227,29 @@
                 <div class="col-md-3">
                     <h1>Featured</h1>
                     <ul class="submenu">
-                        <li style="font-size: 25px;"><a href="">What's in a travel shoe?</a></li>
-                        <li style="font-size: 25px;"><a href="">Travel lessons from WRC safari rally in Naivasha</a></li>
-                        <li style="font-size: 25px;"><a href="">Travel and enjoy: Mombasa County 001</a></li>
-                        <li style="font-size: 25px;"><a href="">Importance of team building</a></li>
+                        <li style="font-size: 25px;"><a href="travel_shoe.php">What's in a travel shoe?</a></li>
+                        <li style="font-size: 25px;"><a href="travel_lessons.php">Travel lessons from WRC safari rally in Naivasha</a></li>
+                        <li style="font-size: 25px;"><a href="mombasa.php">Travel and enjoy: Mombasa County 001</a></li>
+                        <li style="font-size: 25px;"><a href="team.php">Importance of team building</a></li>
                     </ul>
                     <hr>
                     <img class="center-block" src="assets/img/mstile-150x150.png" height="300" width="300" alt="">
                     <hr>
                     <h1>Check it out!</h1>
                     <ul class="submenu">
-                        <li style="font-size: 25px;"><a href="">Places to go camping in Kenya</a></li>
-                        <li style="font-size: 25px;"><a href="">Best picks for bird watching in kenya</a></li>
-                        <li style="font-size: 25px;"><a href="">Deep sea fishing in the indian Ocean</a></li>
+                        <li style="font-size: 25px;"><a href="camping.php">Places to go camping in Kenya</a></li>
+                        <li style="font-size: 25px;"><a href="bird-watching.php">Best picks for bird watching in kenya</a></li>
+                        <li style="font-size: 25px;"><a href="deep_fishing.php">Deep sea fishing in the indian Ocean</a></li>
 
                     </ul>
                     <br><br><br><br>
-                    <ul>
-                    <li><p style="font-size: 25px;color: #0b2e13;">Why do you go away? So that you can come back. So that you can see the place you came from with new eyes and extra colors. And the people there see you differently, too. Coming back to where you started is not the same as never leaving.</p></li>
-                    <li><p style="font-size: 25px;color: #0b2e13;"> And then there is the most dangerous risk of all – the risk of spending your life not doing what you want on the bet you can buy yourself the freedom to do it later.</p></li>
-                    </ul>
+                    <div>
+                        <h2>Why Adventure?</h2>
+                        <ul>
+                            <li><p style="font-size: 25px;color: #0b2e13;">Why do you go away? So that you can come back. So that you can see the place you came from with new eyes and extra colors. And the people there see you differently, too. Coming back to where you started is not the same as never leaving.</p></li>
+                            <li><p style="font-size: 25px;color: #0b2e13;"> And then there is the most dangerous risk of all – the risk of spending your life not doing what you want on the bet you can buy yourself the freedom to do it later.</p></li>
+                        </ul>
+                    </div>
                 </div>
 
             </div>
@@ -227,10 +257,10 @@
 
         <section class="section-networks blue-bg">
             <div class="container">
-                <a href="https://www.facebook.com/ZiaraAdventures" class="rectangle">
+                <a href="https://www.facebook.com/ZiaraAdventures" target="_blank" rel="noopener noreferrer" class="rectangle">
                     <i class="fa fa-facebook"></i>
                 </a>
-                <a href="https://bit.ly/2Oi1tyN" class="rectangle">
+                <a href="https://bit.ly/2Oi1tyN" target="_blank" rel="noopener noreferrer" class="rectangle">
                     <i class="fa fa-instagram"></i>
                 </a>
                 <a href="#" class="rectangle">
@@ -239,6 +269,7 @@
                 <a href="#" class="rectangle">
                     <i class="fa fa-youtube-play"></i>
                 </a>
+
             </div>
         </section><!-- /.section-networks-->
 
@@ -246,8 +277,18 @@
 
     <footer id="colophon" class="site-footer">
 
+        <div class="container-fluid">
+
+            <div class="page-scroll">
+                <a href="#top" class="rectangle">
+                    <i class="fa fa-angle-double-up"></i>
+                </a>
+            </div>
+
+        </div>
+
         <div class="container text-center">
-            <p class="copyright">&copy; <a href="" target="_blank">ZiaraAdventures</a> - 2022</p>
+            <p class="copyright">&copy; <a href="">ZiaraAdventures</a> - 2022</p>
         </div>
 
     </footer><!-- /#footer -->

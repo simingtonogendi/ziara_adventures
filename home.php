@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Ziara</title>
+    <title>Ziara Adventures #TWENDEZIARA</title>
 
     <meta name="description" content="">
     <meta name="author" content="">
@@ -100,7 +100,7 @@
 
                     <!-- Name -->
                     <div class="page -scroll site-logo">
-                        <a href="#top"><img src="assets/img/mstile-150x150.png" width="100" height="63" alt="logo"></a>
+                        <a href="#top"><img src="assets/img/mstile-150x150.png" width="100" height="80" alt="logo"></a>
                     </div>
 
                 </div><!-- /.navbar-header -->
@@ -113,8 +113,10 @@
                     <li class="dropdown">
                         <a  class="navbar-link dropdown-toggle" data-toggle="dropdown" href="#">Products</a>
                         <div class="dropdown-menu">
-                            <a class="dropdown-header" href="adventure_travel.php">Adventure travel</a><br>
+                            <a class="dropdown-header" href="adventure_travel.php">Adventure Travel</a><br>
                             <a class="dropdown-header" href="team_building.php">Team Building</a><br>
+                            <a class="dropdown-header" href="beach_adventure.php">Beach Adventure</a><br>
+                            <a class="dropdown-header" href="bush_adventure.php">Bush Adventure</a><br>
                         </div>
                     </li>
                     <li class="page-scroll"><a href="portfolio.php">Portfolio</a></li>
@@ -146,8 +148,9 @@
 
         /* Caption text */
         .text {
-            color: #003eff;
-            font-size: 60px;
+            color: #eaff52;
+            font-size: 100px;
+            font-weight: bolder;
             font-family: Algerian;
             padding: 8px 12px;
             position: absolute;
@@ -204,9 +207,9 @@
             <img src="assets/img/safari.avif" style="width:100%">
             <div class="text">
             <h1>Bush Adventures</h1> <br>
-            <h3>Encounter a thrilling atmosphere</h3> <br>
-            <h4>EXPLORE: DISCOVER: ENJOY</h4>
-            <h4>#TWENDEZIARA</h4>
+            <h2>Encounter a thrilling atmosphere</h2> <br>
+            <h3>EXPLORE: DISCOVER: ENJOY</h3>
+            <h3>#TWENDEZIARA</h3>
             </div>
         </div>
 
@@ -215,9 +218,9 @@
             <img src="assets/img/star.avif" style="width:100%">
             <div class="text">
                 <h1>Beach Adventures</h1> <br>
-                <h3>Experience the beauty offered beyond the beach</h3> <br>
-                <h4>EXPLORE: DISCOVER: ENJOY</h4>
-                <h4>#TWENDEZIARA</h4>
+                <h2>Experience the beauty offered beyond the beach</h2> <br>
+                <h3>EXPLORE: DISCOVER: ENJOY</h3>
+                <h3>#TWENDEZIARA</h3>
             </div>
         </div>
 
@@ -226,20 +229,20 @@
             <img src="assets/img/abt-1.jpg" style="width:100%">
             <div class="text">
                 <h1>Team Building</h1> <br>
-                <h3>Make numerous strides towards your goal</h3> <br>
-                <h4>EXPLORE: DISCOVER: ENJOY</h4>
-                <h4>#TWENDEZIARA</h4>
+                <h2>Make numerous strides towards your goal</h2> <br>
+                <h3>EXPLORE: DISCOVER: ENJOY</h3>
+                <h3>#TWENDEZIARA</h3>
             </div>
         </div>
 
         <div class="mySlides fade hero-content">
             <div class="numbertext">4 / 6</div>
-            <img src="assets/img/getaway.avif" style="width:100%">
+            <img src="assets/img/weekend.jpg" style="width:100%">
             <div class="text">
                 <h1>Weekend Getaway</h1> <br>
-                <h3>Take sometime to connect with nature</h3> <br>
-                <h4>EXPLORE: DISCOVER: ENJOY</h4>
-                <h4>#TWENDEZIARA</h4>
+                <h2>Take sometime to connect with nature</h2> <br>
+                <h3>EXPLORE: DISCOVER: ENJOY</h3>
+                <h3>#TWENDEZIARA</h3>
             </div>
         </div>
 
@@ -248,20 +251,20 @@
             <img src="assets/img/hike.avif" style="width:100%">
             <div class="text">
                 <h1>Hiking</h1> <br>
-                <h3>You need special shoes for hiking—and a bit of a special soul as well</h3> <br>
-                <h4>EXPLORE: DISCOVER: ENJOY</h4>
-                <h4>#TWENDEZIARA</h4>
+                <h2>You need special shoes for hiking—and a bit of a special soul as well</h2> <br>
+                <h3>EXPLORE: DISCOVER: ENJOY</h3>
+                <h3>#TWENDEZIARA</h3>
             </div>
         </div>
 
         <div class="mySlides fade hero-content">
             <div class="numbertext">6 / 6</div>
-            <img src="assets/img/book.avif" style="width:100%">
+            <img src="assets/img/hb.avif" style="width:100%">
             <div class="text">
                 <h1>Hotel Bookings</h1> <br>
-                <h3>Have a wholesome time in a serene environment</h3> <br>
-                <h4>EXPLORE: DISCOVER: ENJOY</h4>
-                <h4>#TWENDEZIARA</h4>
+                <h2>Have a wholesome time in a serene environment</h2> <br>
+                <h3>EXPLORE: DISCOVER: ENJOY</h3>
+                <h3>#TWENDEZIARA</h3>
             </div>
         </div>
 
@@ -374,13 +377,18 @@
     </main>
     <body>
 
-    <a href="https://wa.me/254113579573" class="whatsapp_float" target="_blank"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
+    <a href="https://wa.me/254113579573" class="whatsapp_float" target="_blank" rel="noopener noreferrer"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
 
 
     <button class="open-button btn-success" onclick="openForm()">Reach Us</button>
 
     <div class="form-popup" id="myForm">
-        <form action="reach_us.php" name="reach_us" method="post" class="form-container text-primary">
+        <form action="https://formsubmit.co/travel@ziaraadventures.com" target="_blank" rel="noopener noreferrer" name="reach_us" method="post" class="form-container text-primary">
+            <input type="text" name="honey" style="display: none;">
+
+            <input type="hidden" name="_captcha" value="false">
+
+            <input type="hidden" name="next" value="http://localhost/phpmyadmin/index.php?route=/database/structure&db=ziara_adventures/reach_us.php">
             <h1>Contact Details</h1>
 
             <label for="email"><b>Email</b></label> <br>
@@ -555,25 +563,26 @@
     </section>
 
 
-    <section class="section-networks blue-bg">
-        <div class="container">
-            <a href="https://www.facebook.com/ZiaraAdventures" class="rectangle">
-                <i class="fa fa-facebook"></i>
-            </a>
-            <a href="https://bit.ly/2Oi1tyN" class="rectangle">
-                <i class="fa fa-instagram"></i>
-            </a>
-            <a href="#" class="rectangle">
-                <i class="fa fa-twitter"></i>
-            </a>
-            <a href="#" class="rectangle">
-                <i class="fa fa-youtube-play"></i>
-            </a>
+<section class="section-networks blue-bg">
+    <div class="container">
+        <a href="https://www.facebook.com/ZiaraAdventures" target="_blank" rel="noopener noreferrer" class="rectangle">
+            <i class="fa fa-facebook"></i>
+        </a>
+        <a href="https://bit.ly/2Oi1tyN" target="_blank" rel="noopener noreferrer" class="rectangle">
+            <i class="fa fa-instagram"></i>
+        </a>
+        <a href="#" class="rectangle">
+            <i class="fa fa-twitter"></i>
+        </a>
+        <a href="#" class="rectangle">
+            <i class="fa fa-youtube-play"></i>
+        </a>
 
-        </div>
-    </section>
+    </div>
+</section><!-- /.section-networks-->
 
 </main>
+
 <footer id="colophon" class="site-footer">
 
     <div class="container-fluid">
@@ -587,7 +596,7 @@
     </div>
 
     <div class="container text-center">
-        <p class="copyright">&copy; <a href="#" target="_blank">ZiaraAdventures</a> - 2022</p>
+        <p class="copyright">&copy; <a href="">ZiaraAdventures</a> - 2022</p>
     </div>
 
 </footer><!-- /#footer -->

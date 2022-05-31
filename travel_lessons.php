@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Ziara</title>
+    <title>Ziara Adventures #TWENDEZIARA</title>
 
     <meta name="description" content="">
     <meta name="author" content="">
@@ -110,6 +110,8 @@
                         <div class="dropdown-menu">
                             <a class="dropdown-header" href="adventure_travel.php">Adventure travel</a><br>
                             <a class="dropdown-header" href="team_building.php">Team Building</a><br>
+                            <a class="dropdown-header" href="beach_adventure.php">Beach Adventure</a><br>
+                            <a class="dropdown-header" href="bush_adventure.php">Bush Adventure</a><br>
                         </div>
                     </li>
                     <li class="page-scroll"><a href="portfolio.php">Portfolio</a></li>
@@ -132,46 +134,67 @@
                     <section class="container">
                         <div>
                             <h1 style="font-size: 65px;">Travel lessons from WRC Safari Rally in Naivasha</h1>
-                            <img src="assets/img/rally.jpg" width="1200" height="550" alt="">
+                            <br><br>
+                            <img src="assets/img/rally.jpg" width="100%" height="auto" alt="">
+                            <br><br>
                             <p style="color: grey;font-size: 30px;">The World Rally Championship Safari rally is the biggest motorsport event in Kenya and because it will be here until 2026, here are some travel lessons we picked from Naivasha this weekend that will help you for the next 4 years.</p>
-                            <img src="assets/img/rally1.jpg" width="1200" height="550" alt="">
+                            <br><br>
+                            <img src="assets/img/rally1.jpg" width="100%" height="auto" alt="">
+                            <br><br>
                         </div>
                         <ol>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Planning is Key</h1>
+                                <br>
                                 <p style="color: grey;font-size: 25px;">Failure to plan is planning to fail. This swiftly became a reality to many people who assumed that since Naivasha is less than 2 hours away from Nairobi & Nakuru, they could just dash into and out of the town as they pleased. A night or two in the cold or in an overly priced dingy lodging should teach last-minute people a thing or two,
                                     Lesson 1: Check out the overall event plan. It will have the dates, the venues, and the rally times. Plan your stay around these places. Book your accommodation within a few kilometers of your preferred stage venue. This makes it easier for you to get to the venue and back to your hotel in a short time even with heavy traffic.</p>
+                                <br><br>
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Travel Lessons on Bookings</h1>
-                                <img src="assets/img/vacancy.jpg" alt="">
+                                <br>
+                                <img src="assets/img/vacancy.jpg" width="100%" height="auto" alt="">
+                                <br><br>
                                 <p style="color: grey;font-size: 25px;">The early bird catches the warm- blankets…
                                     Book your accomodation in time. The earlier the better! Take advantage of cancellation policies. Book your room and if you change your mind, cancel before the policy kicks in. Make arrangements for camping options and if you will be spending the night in your car, find secure parking and pay in advance.
                                     Also, just don’t lose the receipts…</p>
+                                <br><br>
 
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Travel light</h1>
-                                <img src="assets/img/tlight.jpg" alt="">
+                                <br>
+                                <img src="assets/img/tlight.jpg" width="100%" height="auto" alt="">
+                                <br><br>
                                 <p style="color: grey;font-size: 25px;">Whether you are travelling by public means or driving down to Naivasha, pack light and pack early. The less things you have, the less things you stand to lose or forget in your mad rush out of Naivasha. Pack essentials. Have one bag at most (even for camping). In it, ensure you have your ID card, your personal effects, and a change or two of clothes. Remember warm clothes for the night and early morning temperature drops. Pack early to ensure you have everything you need for the trip including sunscreen and or a hat and a couple of masks.</p>
+                                <br><br>
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Travel lessons on Food… It is important too</h1>
-                                <img src="assets/img/trfood.jpg" alt="">
+                                <br>
+                                <img src="assets/img/trfood.jpg" width="100%" height="auto" alt="">
+                                <br>
                                 <p style="color: grey;font-size: 25px;">Over the weekend we saw photos of cars filled with piles upon piles of alcohol… and the not-so-funny effects of the aftermath.
                                     As you plan your travel, so you should plan your meals. If you can, carry your food and a small gas burner to prepare your meals. If not, have a pack of snacks set aside for each day you are out. Biscuits, crisps, fruits, and other light snacks could be the difference between you and starvation in the hot sun far away from any cooked meals. Stock up on your water, add glucose into a bottle or two to keep your energy up, and space your alcohol.</p>
+                                <br><br>
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">Always be prepared</h1>
-                                <img src="assets/img/maasai.jpg" alt="">
+                                <br>
+                                <img src="assets/img/maasai.jpg" width="100%" height="auto" alt="">
+                                <br><br>
                                 <p style="color: grey;font-size: 25px;">Looking at the footage and photos doing the rounds on Twitter and Instagram, it looks like the most prepared people were the photographers and videographers. The quality of the photos is amazing considering that they could not carry their entire edit suit to the wild. These should be your role models. Always prepared.</p>
                                 <p style="color: grey;font-size: 25px;">Check the weather in advance. Know what to carry and what to leave behind. Carry basic Over the Counter medications ( painkillers, anti-acids and antihistamines) you never know when your allergies will kick in, and with the rate of alcohol consumption, you will definitely need the painkilllers.</p>
                                 <p style="color: grey;font-size: 25px;">If you are camping, ensure you have access to a socket to keep your phone charged, have your insect repellent with you and have a torch for night light.</p>
+                                <br><br>
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">The most important travel lesson from Vasha…</h1>
-                                <img src="assets/img/vasha.jpg" alt="">
+                                <br>
+                                <img src="assets/img/vasha.jpg" width="100%" height="auto" alt="">
+                                <br><br>
                                 <p style="color: grey;font-size: 25px;">Plan your travel route well in advance. There is always an alternative route and most times it is the quickest way to and from a big event. In the case of the Naivasha WRC event, the Kinungi route, the Mai-Mahiu route, and the Kingangop Gil Gil route were the immediate options for everyone. This made them the slowest and most jam-packed routes. By planning early and scouting for routes one might have opted for the longer Naivasha, Nyahururu, Nyeri Nairobi route. This one is definitely longer which makes it the unpopular route which in essence means less traffic.</p>
+                                <br><br>
                             </li>
                         </ol>
                         <br><br><br>
@@ -193,26 +216,29 @@
                 <div class="col-md-3">
                     <h1>Featured</h1>
                     <ul class="submenu">
-                        <li style="font-size: 25px;"><a href="">What's in a travel shoe?</a></li>
-                        <li style="font-size: 25px;"><a href="">Travel lessons from WRC safari rally in Naivasha</a></li>
-                        <li style="font-size: 25px;"><a href="">Travel and enjoy: Mombasa County 001</a></li>
-                        <li style="font-size: 25px;"><a href="">Importance of team building</a></li>
+                        <li style="font-size: 25px;"><a href="travel_shoe.php">What's in a travel shoe?</a></li>
+                        <li style="font-size: 25px;"><a href="travel_lessons.php">Travel lessons from WRC safari rally in Naivasha</a></li>
+                        <li style="font-size: 25px;"><a href="mombasa.php">Travel and enjoy: Mombasa County 001</a></li>
+                        <li style="font-size: 25px;"><a href="team.php">Importance of team building</a></li>
                     </ul>
                     <hr>
                     <img class="center-block" src="assets/img/mstile-150x150.png" height="300" width="300" alt="">
                     <hr>
                     <h1>Check it out!</h1>
                     <ul class="submenu">
-                        <li style="font-size: 25px;"><a href="">Places to go camping in Kenya</a></li>
-                        <li style="font-size: 25px;"><a href="">Best picks for bird watching in kenya</a></li>
-                        <li style="font-size: 25px;"><a href="">Deep sea fishing in the indian Ocean</a></li>
+                        <li style="font-size: 25px;"><a href="camping.php">Places to go camping in Kenya</a></li>
+                        <li style="font-size: 25px;"><a href="bird-watching.php">Best picks for bird watching in kenya</a></li>
+                        <li style="font-size: 25px;"><a href="deep_fishing.php">Deep sea fishing in the indian Ocean</a></li>
 
                     </ul>
                     <br><br><br><br>
+                    <div>
+                        <h2>Why Adventure?</h2>
                     <ul>
                         <li><p style="font-size: 25px;color: #0b2e13;">Why do you go away? So that you can come back. So that you can see the place you came from with new eyes and extra colors. And the people there see you differently, too. Coming back to where you started is not the same as never leaving.</p></li>
                         <li><p style="font-size: 25px;color: #0b2e13;"> And then there is the most dangerous risk of all – the risk of spending your life not doing what you want on the bet you can buy yourself the freedom to do it later.</p></li>
                     </ul>
+                    </div>
                 </div>
 
             </div>
@@ -220,10 +246,10 @@
 
         <section class="section-networks blue-bg">
             <div class="container">
-                <a href="https://www.facebook.com/ZiaraAdventures" class="rectangle">
+                <a href="https://www.facebook.com/ZiaraAdventures" target="_blank" rel="noopener noreferrer" class="rectangle">
                     <i class="fa fa-facebook"></i>
                 </a>
-                <a href="https://bit.ly/2Oi1tyN" class="rectangle">
+                <a href="https://bit.ly/2Oi1tyN" target="_blank" rel="noopener noreferrer" class="rectangle">
                     <i class="fa fa-instagram"></i>
                 </a>
                 <a href="#" class="rectangle">
@@ -232,6 +258,7 @@
                 <a href="#" class="rectangle">
                     <i class="fa fa-youtube-play"></i>
                 </a>
+
             </div>
         </section><!-- /.section-networks-->
 
@@ -239,8 +266,18 @@
 
     <footer id="colophon" class="site-footer">
 
+        <div class="container-fluid">
+
+            <div class="page-scroll">
+                <a href="#top" class="rectangle">
+                    <i class="fa fa-angle-double-up"></i>
+                </a>
+            </div>
+
+        </div>
+
         <div class="container text-center">
-            <p class="copyright">&copy; <a href="" target="_blank">ZiaraAdventures</a> - 2022</p>
+            <p class="copyright">&copy; <a href="">ZiaraAdventures</a> - 2022</p>
         </div>
 
     </footer><!-- /#footer -->

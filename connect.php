@@ -10,6 +10,7 @@ $sql = "INSERT INTO `contact`(`id`, `name`, `email`, `contact`, `message`) VALUE
 
 $rs = mysqli_query($conn, $sql);
 
+
 if ($rs){
     echo "Message sent successfully";
 }

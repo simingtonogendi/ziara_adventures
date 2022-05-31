@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Ziara</title>
+    <title>Ziara Adventures #TWENDEZIARA</title>
 
     <meta name="description" content="">
     <meta name="author" content="">
@@ -19,9 +19,9 @@
 
 
     <link rel="apple-touch-icon" sizes="144x144" href="assets/img/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16x16.png">
-    <link rel="icon" sizes="16x16" href="assets/img/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/mstile-150x150.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/mstile-150x150.png">
+    <link rel="icon" sizes="16x16" href="assets/img/mstile-150x150.png">
     <link rel="manifest" href="assets/img/manifest.json">
     <link rel="mask-icon" href="assets/img/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="theme-color" content="#ffffff">
@@ -68,7 +68,7 @@
 
 
 </head>
-<body>
+<main>
 
 <!-- Carousel -->
 <div id="demo" class="carousel slide" data-bs-ride="carousel">
@@ -95,7 +95,7 @@
 
                     <!-- Name -->
                     <div class="page -scroll site-logo">
-                        <a href="#top"><img src="assets/img/mstile-150x150.png" width="100" height="63" alt="logo"></a>
+                        <a href="#top"><img src="assets/img/mstile-150x150.png" width="100" height="80" alt="logo"></a>
                     </div>
 
                 </div><!-- /.navbar-header -->
@@ -110,8 +110,8 @@
                         <div class="dropdown-menu">
                             <a class="dropdown-header" href="adventure_travel.php">Adventure travel</a><br>
                             <a class="dropdown-header" href="team_building.php">Team Building</a><br>
-                            <a class="dropdown-header" href="team_building.php">Bush Adventure</a><br>
-                            <a class="dropdown-header" href="team_building.php">Beach Adventure</a><br>
+                            <a class="dropdown-header" href="beach_adventure.php">Beach Adventure</a><br>
+                            <a class="dropdown-header" href="bush_adventure.php">Bush Adventure</a><br>
                         </div>
                     </li>
                     <li class="page-scroll"><a href="portfolio.php">Portfolio</a></li>
@@ -124,111 +124,156 @@
         </nav><!-- /.primary-navigation -->
     </header>
 
-<main id="main" class="site-main">
+<main id="main" main="site-main">
 
     <section id="home" class="blog">
         <div class="container">
             <div class="row">
                 <div class="col-md-offset-2 col-md-8 text-center">
-                    <h1 class="wow fadeIn" data-wow-offset="50" data-wow-delay="0.9s">OUR <span>BLOG</span></h1>
+                    <h1 class="wow fadeIn text-primary" style="font-weight: bold" data-wow-offset="50" data-wow-delay="0.9s">OUR <span>BLOG</span></h1>
 
-                    <h2>#TWENDEZIARA</h2>
+                    <h2 class="text-primary" style="font-weight: bold">#TWENDEZIARA</h2>
                 </div>
             </div>
         </div>
     </section>
+    <br><br><br>
+    <section">
+        <div class="row">
+            <div class="col-sm-4">
+                            <img class="img-rounded" src="assets/img/bgt.jpg"  style="height: auto; width: 100%;" alt="cheap-travel">
+            </div>
+            <div class="col-md-4">
+                <h2 class="text-primary text-center">
+                    10 POCKET FRIENDLY ADVENTURE TIPS FOR YOU
+                </h2>
+                <p style="font-size: 20px;color: white">Ziara adventures is home to budget-friendly adventures. Over the years, we have found the following 10 budget-friendly tips tips to reign superior for any ardent traveler.
+                    <br> <br>
+                    <a href="budget_adventure.php" class="btn btn-primary">
+                        Read More
+                        <i class="icon-chevron-right readmore-icon center-block"></i>
+                    </a>
+            </div>
+
+            <div class="vl col-md-1" style="border-right: 1px solid green; height: 300px;"></div>
+
+            <div class="col-md-3">
+                <h2 class="section-subtitle" style="font-weight: bold; font-size: large; color: whitesmoke">Latest posts</h2>
+                <ul>
+                    <li style="font-weight: bold; font-size: large"><a href="travel_shoe.php">What's in a travel shoe?</a></li>
+                    <li style="font-weight: bold; font-size: large"><a href="team.php">Importance of team building</a></li>
+                    <li style="font-weight: bold; font-size: large"><a href="mombasa.php">Travel and enjoy: Mombasa</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </main>
+    <br><br><br>
     <section>
-        <div class="row text-primary">
-
-            <div class="col-md-9">
-                <div id="content">
-                    <br><br>
-                    <div class="row">
-                        <div class="col-md-5">
-                            <img class="img-rounded" src="assets/img/cheap-travel.jpg" width="520" height="300" alt="cheap-travel">
-                        </div>
-                        <div class="col-md-7 text-justify">
-                            <h2>
-                                HERE'S TO YOUR BUDGET ADVENTURE
-                            </h2>
-                            <p style="font-size: 20px;color: #0b2e13">Ziara adventures is home to budget-friendly adventures. Over the years, we have found the following 10 budget-friendly tips tips to reign superior for any ardent traveler.
-                                <br> <br>
-                            <a href="budget_adventure.php" class="btn btn-primary">
-                                Read More
-                                <i class="icon-chevron-right readmore-icon center-block"></i>
-                            </a>
-                        </div>
-                    </div>
-                    <hr>
-                    <br><br><br>
-                    <div class="row">
-                        <div class="col-md-4 tit">
-                            <img src="assets/img/tt.avif" alt="Notebook" style="width:100%;">
-                            <div class="content titc">
-                                <h3><a href="travel_time.php">The Time to Travel Is Now</a></h3>
-                            </div>
-                        </div>
-                        <div class="col-md-4 tit">
-                            <img src="assets/img/cmp.jpg" alt="Notebook" style="width:100%;">
-                            <div class="content titc">
-                                <h3><a href="camping_essentials.php">Camping Essentials</a></h3>
-                            </div>
-                        </div>
-                        <div class="col-md-4 tit">
-                            <img src="assets/img/gem.avif" alt="Notebook" style="width:100%;">
-                            <div class="content titc">
-                                <h3><a href="adventure_gems.php">Hidden adventure Gems In Kenya</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <hr>
-
-
-                    <section class="section-background section-me text-center qt">
-                        <div class="container page-scroll">
-                            <h2 style="font-size: 30px;font-weight: bold; color: black;">Discover new horizons</h2>
-                            <p style="font-size: 25px;color: white;">First impression satisfaction is waiting for you</p>
-
-                        </div>
-                    </section>
+        <div class="row">
+            <div class="col-md-3 tit">
+                <img src="assets/img/tt.avif" alt="Notebook" style="width:100%;">
+                <div class="content titc">
+                    <h3><a href="travel_time.php">The Time to Travel Is Now</a></h3>
                 </div>
             </div>
-
-
-            <br> <br> <br> <br>
+            <div class="col-md-3 tit">
+                <img src="assets/img/campingc.avif" alt="Notebook" style="width:100%;">
+                <div class="content titc">
+                    <h3><a href="camping_essentials.php">Camping Essentials</a></h3>
+                </div>
+            </div>
+            <div class="col-md-3 tit">
+                <img src="assets/img/gem.avif" alt="Notebook" style="width:100%;">
+                <div class="content titc">
+                    <h3><a href="adventure_gems.php">Hidden adventure Gems In Kenya</a></h3>
+                </div>
+            </div>
+            <div class="col-md-3 tit">
+                <img src="assets/img/msa.jpg" alt="Notebook" style="width:100%;">
+                <div class="content titc">
+                    <h3><a href="mombasa.php">Travel and Enjoy: Mombasa County 001</a></h3>
+                </div>
+            </div>
+        </div>
+        <br><br>
+        <div class="row">
+            <div class="col-md-3 tit">
+                <img src="assets/img/lala.jpg" alt="Notebook" style="width:100%;">
+                <div class="content titc">
+                    <h3><a href="camping.php">Places To Go Camping</a></h3>
+                </div>
+            </div>
+            <div class="col-md-3 tit">
+                <img src="assets/img/brd1.jpg" alt="Notebook" style="width:100%;">
+                <div class="content titc">
+                    <h3><a href="bird-watching.php">Best Picks for Bird Watching</a></h3>
+                </div>
+            </div>
+            <div class="col-md-3 tit">
+                <img src="assets/img/fis.jpg" alt="Notebook" style="width:100%;">
+                <div class="content titc">
+                    <h3><a href="deep_fishing.php">Deep Sea Fishing in the Indian Ocean</a></h3>
+                </div>
+            </div>
+            <div class="col-md-3 tit">
+                <img src="assets/img/sfr.jpg" alt="Notebook" style="width:100%;">
+                <div class="content titc">
+                    <h3><a href="travel_lessons.php">Travel Lessons From the Naivasha Safari Rally</a></h3>
+                </div>
+            </div>
+        </div>
+    </section>
+    <br><br><br>
+    <section class="container" style="background-color: rgba(72,91,67,0.56)">
+        <h3 class="text-center" style="font-size: large">Categories</h3>
+        <div class="row" style="font-weight: bold">
             <div class="col-md-3">
-                <h1>Featured</h1>
-                <ul class="submenu">
-                    <li style="font-size: 25px;"><a href="travel_shoe.php">What's in a travel shoe?</a></li>
-                    <li style="font-size: 25px;"><a href="travel_lessons.php">Travel lessons from WRC safari rally in Naivasha</a></li>
-                    <li style="font-size: 25px;"><a href="mombasa.php">Travel and enjoy: Mombasa County 001</a></li>
-                    <li style="font-size: 25px;"><a href="team.php">Importance of team building</a></li>
-                </ul>
-                <hr>
-                <img class="center-block" src="assets/img/mstile-150x150.png" height="300" width="300" alt="">
-                <hr>
-                <h1>Check it out!</h1>
-                <ul class="submenu">
-                    <li style="font-size: 25px;"><a href="camping.php">Places to go camping in Kenya</a></li>
-                    <li style="font-size: 25px;"><a href="bird-watching.php">Best picks for bird watching in kenya</a></li>
-                    <li style="font-size: 25px;"><a href="deep_fishing.php">Deep sea fishing in the indian Ocean</a></li>
-
-                </ul>
+                <h2 class="section-subtitle text-white" style="color: whitesmoke; font-size: large">Adventure Travel</h2>
                 <ul>
-                    <li style="font-size: 30px;"><p style="font-size: 25px;color: #0b2e13;">Why do you go away? So that you can come back. So that you can see the place you came from with new eyes and extra colors. And the people there see you differently, too. Coming back to where you started is not the same as never leaving.</p></li>
-                    <li style="font-size: 30px;"><p style="font-size: 25px;color: #0b2e13;"> And then there is the most dangerous risk of all – the risk of spending your life not doing what you want on the bet you can buy yourself the freedom to do it later.</p></li>
+                    <li><a href="budget_adventure.php" style="font-size: large">Budget adventure tips</a></li>
+                    <li><a href="camping_essentials.php" style="font-size: large">Camping essentials</a></li>
+                    <li><a href="adventure_gems.php" style="font-size: large">Adventure gems in Kenya</a></li>
                 </ul>
             </div>
+            <div class="col-md-3">
+                <h2 class="section-subtitle text-white" style="color: whitesmoke; font-size: large">Team Building</h2>
+                <ul>
+                    <li><a href="team.php" style="font-size: large">Importance of team building</a></li>
+
+                </ul>
+            </div>
+            <div class="col-md-3">
+                <h2 class="section-subtitle text-white" style="color: whitesmoke; font-size: large">Bush adventures</h2>
+                <ul>
+                    <li><a href="bird-watching.php" style="font-size: large">Best picks for bird watching in Kenya</a></li>
+                    <li><a href="camping.php" style="font-size: large">Places to go camping</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3">
+                <h2 class="section-subtitle text-white" style="color: whitesmoke; font-size: large">Beach Adventures</h2>
+                <ul>
+                    <li><a href="mombasa.php" style="font-size: large">Travel and Enjoy: Mombasa</a></li>
+                    <li><a href="deep_fishing.php" style="font-size: large">Deep Sea Fushing</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <br><br><br>
+    <section class="section-background section-me text-center qt">
+        <div class="container page-scroll">
+            <h2 style="font-size: 30px;font-weight: bold; color: black;">Discover new horizons</h2>
+            <p style="font-size: 25px;color: white; font-weight: bold;">First impression satisfaction is waiting for you</p>
 
         </div>
     </section>
 
     <section class="section-networks blue-bg">
         <div class="container">
-            <a href="https://www.facebook.com/ZiaraAdventures" class="rectangle">
+            <a href="https://www.facebook.com/ZiaraAdventures" target="_blank" rel="noopener noreferrer" class="rectangle">
                 <i class="fa fa-facebook"></i>
             </a>
-            <a href="https://bit.ly/2Oi1tyN" class="rectangle">
+            <a href="https://bit.ly/2Oi1tyN" target="_blank" rel="noopener noreferrer" class="rectangle">
                 <i class="fa fa-instagram"></i>
             </a>
             <a href="#" class="rectangle">
@@ -237,6 +282,7 @@
             <a href="#" class="rectangle">
                 <i class="fa fa-youtube-play"></i>
             </a>
+
         </div>
     </section><!-- /.section-networks-->
 
@@ -244,11 +290,20 @@
 
 <footer id="colophon" class="site-footer">
 
-    <div class="container text-center">
-        <p class="copyright">&copy; <a href="" target="_blank">ZiaraAdventures</a> - 2022</p>
+    <div class="container-fluid">
+
+        <div class="page-scroll">
+            <a href="#top" class="rectangle">
+                <i class="fa fa-angle-double-up"></i>
+            </a>
+        </div>
+
     </div>
 
-</footer><!-- /#footer -->
+    <div class="container text-center">
+        <p class="copyright">&copy; <a href="">ZiaraAdventures</a> - 2022</p>
+    </div>
 
-</body>
+</footer>
+
 </html>

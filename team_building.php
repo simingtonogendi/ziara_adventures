@@ -72,7 +72,7 @@
         </div>
 </nav>
 
-<section id="home">
+<section id="prod">
     <div class="container">
         <div class="row">
             <div class="col-md-offset-2 col-md-8">
@@ -121,7 +121,7 @@
                     <div class="post_column col-lg-6 col-md-12 col-sm-12 col-xs-12">
                         <div class="ttr_Home_html_column10">
                             <div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
-                            <div class="html_content"><p><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 0em 0em;"><span><img class="img-circle" src="assets/img/team-1.webp" style="max-width:1000px;max-height:662px;" /></span></span></p></div>
+                            <div class="html_content"><p><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 0em 0em;"><span><img class="img-circle" src="assets/img/ko.jpg" style="max-width:1000px;max-height:662px;" /></span></span></p></div>
                             <div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
                             <div style="clear:both;"></div>
                         </div>
@@ -131,8 +131,9 @@
                     <div class="post_column col-lg-6 col-md-12 col-sm-12 col-xs-12">
                         <div class="ttr_Home_html_column11">
                             <div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
-                            <div class="html_content"><p style="margin:0em 0em 0em 0em;font-weight:700;font-size:1.714em;"><span style="font-family:'Roboto','Segoe UI';font-weight:400;font-size:1.786em;color: green;">Discover the Advantages</span></p><p style="margin:0em 0em 0em 0em;font-weight:700;font-size:1.714em;"><br style="font-family:'Open Sans','Segoe UI';font-size:1.071em;color:rgba(52,52,52,1);" /></p><p style="margin:0em 0em 0em 0em;font-weight:700;font-size:1.714em;"><br style="font-family:'Open Sans','Segoe UI';font-size:1.071em;color:rgba(52,52,52,1);" /></p><p style="margin:0em 0em 0em 0em;line-height:1.76056338028169;font-weight:700;font-size:1.714em;"><span style="font-family:'Open Sans','Segoe UI';font-weight:400;font-size:1.071em;color:rgba(105,105,105,1);">Team building is about understanding, appreciating, developing, and maximizing the people in your team. The purpose of any team-building exercise is to build a stronger unit of employees.</span></p>
-                                <p style="margin:0.71em 0.36em 0em 0em;line-height:1.76056338028169;"><span style="font-family:'Open Sans','Segoe UI';font-size:2.03">Team building has many benefits for businesses. It improves productivity, increases employee motivation, encourages collaboration, and builds trust and respect among employees.  It enables employees to learn from others and develop new skills. Working in a team helps employees take on leadership roles and see their team members fulfill their responsibilities. Teamwork enables problem-solving capabilities, strategics, and decision-making skills.</span></p>
+                            <div class="html_content"><p style="margin:0em 0em 0em 0em;font-weight:700;font-size:1.714em;"><span style="font-family: 'Times New Roman';font-weight:400;font-size:1.786em;color: green;">Discover the Advantages</span></p><p style="margin:0em 0em 0em 0em;line-height:1.76056338028169;font-weight:700;font-size:1.714em;"><span style="font-family:'Open Sans','Segoe UI';font-weight:300;font-size:1em;color:whitesmoke;">Team building is about understanding, appreciating, developing, and maximizing the people in your team. The purpose of any team-building exercise is to build a stronger unit of employees.</span></p>
+                                <br>
+                                <p style="margin:0em 0em 0em 0em;line-height:1.76056338028169;font-weight:700;font-size:1.714em;"><span style="font-family:'Open Sans','Segoe UI';font-weight:300;font-size:1em;color:whitesmoke;">Team building has many benefits for businesses. It improves productivity, increases employee motivation, encourages collaboration, and builds trust and respect among employees.  It enables employees to learn from others and develop new skills. Working in a team helps employees take on leadership roles and see their team members fulfill their responsibilities. Teamwork enables problem-solving capabilities, strategics, and decision-making skills.</span></p>
                                 <p style="margin:0.71em 0.36em 0em 0em;line-height:1.76056338028169;"><br style="font-family:'Open Sans','Segoe UI';font-size:1.071em;color:rgba(52,52,52,1);" /></p><p style="margin:0.71em 0.36em 0em 0em;line-height:1.76056338028169;"><span><br style="color:rgba(52,52,52,1);" /></span></p></div>
                             <div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
                             <div style="clear:both;"></div>
@@ -169,14 +170,14 @@
                                         <div class="col-md-5">
                                             <div class="service-info text-info">
                                                 <h3 class="service-title">Improves communication</h3>
-                                                <p>Communication is the spine of any high performing organizations. It is not merely enough for the department to have great communication but the whole organisation. Many companies suffer because departments work in silos. In our Ziara team building activities, we break departmental groups and create new teams.
+                                                <p style="color: black; font-size: large">Communication is the spine of any high performing organizations. It is not merely enough for the department to have great communication but the whole organisation. Many companies suffer because departments work in silos. In our Ziara team building activities, we break departmental groups and create new teams.
                                                     <br> This ensures that an individual gets to know more people in other departments and can easily walk up to them in the office for assistance.
 
                                                     Team building can help break down barriers in communication and also how to better utilise both verbal and non-verbal forms of communication.</p>
                                             </div>
                                         </div>
                                         <div class="col-md-7">
-                                            <img src="assets/img/team-cover.jpg" class="img-responsive" alt="">
+                                            <img src="assets/img/team1.jpg" class="img-responsive" alt="">
                                         </div>
                                     </div>
                                 </div><!-- /.item -->
@@ -186,13 +187,13 @@
                                         <div class="col-md-5">
                                             <div class="service-info text-info">
                                                 <h3 class="service-title">Team building builds confidence</h3>
-                                                <p>The first action after teams have been formed is to pick a team leader. This gives them confidence that the team will support them and follow their lead. They are in charge of the team's success. </p>
+                                                <p style="color: black; font-size: large">The first action after teams have been formed is to pick a team leader. This gives them confidence that the team will support them and follow their lead. They are in charge of the team's success. </p>
 
-                                                <p>Each of the tasks we give requires a level of confidence from team members, it is everyone's responsibility to ensure the team wins. Participating in team-building exercises in a comfortable, non-threatening situation will help to develop both self and team confidence. </p>
+                                                <p style="color: black; font-size: large">Each of the tasks we give requires a level of confidence from team members, it is everyone's responsibility to ensure the team wins. Participating in team-building exercises in a comfortable, non-threatening situation will help to develop both self and team confidence. </p>
                                             </div>
                                         </div>
                                         <div class="col-md-7">
-                                            <img src="assets/img/team-3.jpg" class="img-responsive" alt="">
+                                            <img src="assets/img/teamtop.jpg" class="img-responsive" alt="">
                                         </div>
                                     </div>
                                 </div><!-- /.item -->
@@ -202,14 +203,14 @@
                                         <div class="col-md-5">
                                             <div class="service-info text-info">
                                                 <h3 class="service-title">Improves responsibility</h3>
-                                                <p>In each team-building session, every member of a team has a role to contribute. Being responsible for a role will ensure it is fulfilled or learnings are taken from it to apply for the future. Participants can also gain greater respect for not only each other but also for the company and its direction through a team-building program.
+                                                <p style="color: black; font-size: large">In each team-building session, every member of a team has a role to contribute. Being responsible for a role will ensure it is fulfilled or learnings are taken from it to apply for the future. Participants can also gain greater respect for not only each other but also for the company and its direction through a team-building program.
                                                     <br>
 
                                                     Ziara team-building activities reinforce how taking responsibility and providing responsibility are both vital contributors to team performance.</p>
                                             </div>
                                         </div>
                                         <div class="col-md-7">
-                                            <img src="assets/img/team-2.jpg" class="img-responsive" alt="">
+                                            <img src="assets/img/team2.jpg" class="img-responsive" alt="">
                                         </div>
                                     </div>
                                 </div><!-- /.item -->
@@ -218,14 +219,14 @@
                                         <div class="col-md-5">
                                             <div class="service-info text-info">
                                                 <h3 class="service-title">Fun & Bonding</h3>
-                                                <p>This is one of the most underrated benefit of team building. All work & no play makes Jack a dull boy. When fun is a key element in the workplace, the employees thrive, their creativity is boosted and the need to be in the workplace doing what they love and do best is increased.
+                                                <p style="color: black; font-size: large">This is one of the most underrated benefit of team building. All work & no play makes Jack a dull boy. When fun is a key element in the workplace, the employees thrive, their creativity is boosted and the need to be in the workplace doing what they love and do best is increased.
                                                     <br>
 
                                                     Team building also increases morale, positivity and bonding. Interdepartmental bonding and communication breaks down the barriers and allows free flow of ideas that could better the company's performance.</p>
                                             </div>
                                         </div>
                                         <div class="col-md-7">
-                                            <img src="assets/img/fun.png" class="img-responsive" alt="">
+                                            <img src="assets/img/teamb.jpg" class="img-responsive" alt="">
                                         </div>
                                     </div>
                                 </div><!-- /.item -->
@@ -267,10 +268,10 @@
 
                 <section class="section-networks blue-bg">
                     <div class="container">
-                        <a href="https://www.facebook.com/ZiaraAdventures" class="rectangle">
+                        <a href="https://www.facebook.com/ZiaraAdventures" target="_blank" rel="noopener noreferrer" class="rectangle">
                             <i class="fa fa-facebook"></i>
                         </a>
-                        <a href="https://bit.ly/2Oi1tyN" class="rectangle">
+                        <a href="https://bit.ly/2Oi1tyN" target="_blank" rel="noopener noreferrer" class="rectangle">
                             <i class="fa fa-instagram"></i>
                         </a>
                         <a href="#" class="rectangle">
@@ -279,8 +280,10 @@
                         <a href="#" class="rectangle">
                             <i class="fa fa-youtube-play"></i>
                         </a>
+
                     </div>
-                </section>
+                </section><!-- /.section-networks-->
+
 
                 <footer id="colophon" class="site-footer">
 
@@ -295,7 +298,7 @@
                     </div>
 
                     <div class="container text-center">
-                        <p class="copyright">&copy; <a href="http://pixelperfect.mk/" target="_blank">ZiaraAdventures</a> - 2022</p>
+                        <p class="copyright">&copy; <a href="">ZiaraAdventures</a> - 2022</p>
                     </div>
 
                 </footer><!-- /#footer -->

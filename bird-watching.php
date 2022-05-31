@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Ziara</title>
+    <title>Ziara Adventures #TWENDEZIARA</title>
 
     <meta name="description" content="">
     <meta name="author" content="">
@@ -110,8 +110,8 @@
                         <div class="dropdown-menu">
                             <a class="dropdown-header" href="adventure_travel.php">Adventure travel</a><br>
                             <a class="dropdown-header" href="team_building.php">Team Building</a><br>
-                            <a class="dropdown-header" href="team_building.php">Bush Adventure</a><br>
-                            <a class="dropdown-header" href="team_building.php">Beach Adventure</a><br>
+                            <a class="dropdown-header" href="beach_adventure.php">Beach Adventure</a><br>
+                            <a class="dropdown-header" href="bush_adventure.php">Bush Adventure</a><br>
                         </div>
                     </li>
                     <li class="page-scroll"><a href="portfolio.php">Portfolio</a></li>
@@ -134,21 +134,30 @@
                     <section class="container">
                         <div>
                             <h1 style="font-size: 65px;">Best picks for Bird Watching in Kenya</h1>
-                            <img src="assets/img/birds.jpg"  alt="">
+                            <br>
+                            <img src="assets/img/birds.jpg" width="100%" height="auto"  alt="">
+                            <br><br>
                             <p style="color: grey;font-size: 30px;">East Africa is home to over 1000 different and unique bird species in Africa and the world around. Kenya in particular is not called the bird watchers paradise for nothing. The abundance of bird habitats in the country is astounding and simply breathtaking. In fact, without much thought or effort into it, Bird watching tourists can spot up to 100 species in a day.</p>
-                            <img src="assets/img/flam.jpg" alt="">
+                            <br>
+                            <img src="assets/img/flam.jpg" width="100%" height="auto" alt="">
+                            <br><br>
                         </div>
                         <div>
                             <h1 style="font-size: 50px;">Best spots to catch beautiful birds in Kenya</h1>
+                            <br>
                             <p style="color: grey;font-size: 30px;">In Kenya, a majority of the bird species are found in four main habitats; in and around water, the open savannah, near and in the woodlands and in the open lands.</p>
                             <p style="color: grey;font-size: 30px;">Species like the famous Pink flamingos are abundant in the rift valley but most especially in the lake Nakuru national park. The magnificent white pelican and the African fish eagle are a must-see in many of the rift valley lakes. Other birds found near water bodies and swamps include the likes of the kingfisher that dives into the water at an angle of 90 degrees during fishing, Herons, Plovers, Storks, Wild duck and geese, Cranes, and Jacanas. Many of these birds are quite easy to spot thanks to their bright colors and unique fishing techniques.</p>
-                            <img src="assets/img/falmingoes.jpg">
+                            <br>
+                            <img src="assets/img/falmingoes.jpg" width="100%" height="auto">
+                            <br><br>
                             <p style="color: grey;font-size: 30px;">The best places to visit in search of these birds are the national parks that have a lake within them like Lake Naivasha and Lake Nakuru. Lakes that do not have national parks surrounding them like Bogoria, Baringo, Elementaita, Turkana and Magadi also make for a great bird watching experience.</p>
                             <p style="color: grey;font-size: 30px;">The open savannah is home to the best of the best when it comes to wildlife. Most of Kenya is covered in savannah grassland giving room for wildlife to thrive. A majority of Kenya’s national parks have wide-open grassland areas that are home to these birds. The ostrich is the biggest bird on earth and is a spectacular sight to behold. Being a ground bird, it is adapted to living in areas with long grass that act as cover against enemies. The tall ground hornbill is also very active especially in its search for food on the ground. The semi bald vulture, the secretary bird, and the eagle are also very easy to spot in the tall grass and in the sky above.</p>
-                            <img src="assets/img/sec.jpg">
+                            <br>
+                            <img src="assets/img/sec.jpg" width="100%" height="auto">
+                            <br><br>
                             <p style="color: grey;font-size: 30px;">Another great habitat for birds, much smaller than the savannah birds, is the open land and farm land. Weaver birds are possibly the loudest and brightest colored birds in the farm land areas. They flock areas with abundance of grains and especially just before and during the harvest seasons. The ox peckers, sunbirds, egrets and bustards are also found in the open areas but most especially in the plains like the famous Athi-Kapiti plains of eastern province.</p>
                             <p style="color: grey;font-size: 30px;">The most captivating birds in Kenya are undoubtedly the woodland and forest birds. A walk into any tree filled area offers you a splendid mix of the different jungle calls. Some are very high pitched, some give off deep bass sounds while for others the tempo is simply amazing. Bird watching in the tropical forests of Kenya is probably the best experience of all since the birds are usually well hidden. Finding them is never too hard even though they never last on one canopy for too long. These birds include; Drongos, Shrikes, Guinea fowls, Barbets and the lilac breasted roller bird.</p>
-
+                            <br><br>
                         </div>
                         <div>
                             <h1 style="font-size: 50px;">Seasons to look out for when bird watching</h1>
@@ -162,9 +171,11 @@
                         </div>
                         <br><br><br>
                         <div>
-                            <p class="section-quote" style="color: darkblue;font-size: 35px;font-weight: bold">
-                                So if you are looking for budget-friendly adventures, drop us an email at travel@ziaraadventures.com. Let’s explore and create memories together!
-                            </p>
+                            <h2>Why Adventure?</h2>
+                            <ul>
+                                <li><p style="font-size: 25px;color: #0b2e13;">Why do you go away? So that you can come back. So that you can see the place you came from with new eyes and extra colors. And the people there see you differently, too. Coming back to where you started is not the same as never leaving.</p></li>
+                                <li><p style="font-size: 25px;color: #0b2e13;"> And then there is the most dangerous risk of all – the risk of spending your life not doing what you want on the bet you can buy yourself the freedom to do it later.</p></li>
+                            </ul>
                         </div>
 
                     </section>
@@ -175,19 +186,19 @@
                 <div class="col-md-3">
                     <h1>Featured</h1>
                     <ul class="submenu">
-                        <li style="font-size: 25px;"><a href="">What's in a travel shoe?</a></li>
-                        <li style="font-size: 25px;"><a href="">Travel lessons from WRC safari rally in Naivasha</a></li>
-                        <li style="font-size: 25px;"><a href="">Travel and enjoy: Mombasa County 001</a></li>
-                        <li style="font-size: 25px;"><a href="">Importance of team building</a></li>
+                        <li style="font-size: 25px;"><a href="travel_shoe.php">What's in a travel shoe?</a></li>
+                        <li style="font-size: 25px;"><a href="travel_lessons.php">Travel lessons from WRC safari rally in Naivasha</a></li>
+                        <li style="font-size: 25px;"><a href="mombasa.php">Travel and enjoy: Mombasa County 001</a></li>
+                        <li style="font-size: 25px;"><a href="team.php">Importance of team building</a></li>
                     </ul>
                     <hr>
                     <img class="center-block" src="assets/img/mstile-150x150.png" height="300" width="300" alt="">
                     <hr>
                     <h1>Check it out!</h1>
                     <ul class="submenu">
-                        <li style="font-size: 25px;"><a href="">Places to go camping in Kenya</a></li>
-                        <li style="font-size: 25px;"><a href="">Best picks for bird watching in kenya</a></li>
-                        <li style="font-size: 25px;"><a href="">Deep sea fishing in the indian Ocean</a></li>
+                        <li style="font-size: 25px;"><a href="camping.php">Places to go camping in Kenya</a></li>
+                        <li style="font-size: 25px;"><a href="bird-watching.php">Best picks for bird watching in kenya</a></li>
+                        <li style="font-size: 25px;"><a href="deep_fishing.php">Deep sea fishing in the indian Ocean</a></li>
 
                     </ul>
                     <br><br><br><br>
@@ -202,10 +213,10 @@
 
         <section class="section-networks blue-bg">
             <div class="container">
-                <a href="https://www.facebook.com/ZiaraAdventures" class="rectangle">
+                <a href="https://www.facebook.com/ZiaraAdventures" target="_blank" rel="noopener noreferrer" class="rectangle">
                     <i class="fa fa-facebook"></i>
                 </a>
-                <a href="https://bit.ly/2Oi1tyN" class="rectangle">
+                <a href="https://bit.ly/2Oi1tyN" target="_blank" rel="noopener noreferrer" class="rectangle">
                     <i class="fa fa-instagram"></i>
                 </a>
                 <a href="#" class="rectangle">
@@ -214,18 +225,29 @@
                 <a href="#" class="rectangle">
                     <i class="fa fa-youtube-play"></i>
                 </a>
+
             </div>
         </section><!-- /.section-networks-->
 
-    </main>
+</div>
 
-    <footer id="colophon" class="site-footer">
+<footer id="colophon" class="site-footer">
 
-        <div class="container text-center">
-            <p class="copyright">&copy; <a href="" target="_blank">ZiaraAdventures</a> - 2022</p>
+    <div class="container-fluid">
+
+        <div class="page-scroll">
+            <a href="#top" class="rectangle">
+                <i class="fa fa-angle-double-up"></i>
+            </a>
         </div>
 
-    </footer><!-- /#footer -->
+    </div>
+
+    <div class="container text-center">
+        <p class="copyright">&copy; <a href="">ZiaraAdventures</a> - 2022</p>
+    </div>
+
+</footer><!-- /#footer -->
 
 </body>
 </html>

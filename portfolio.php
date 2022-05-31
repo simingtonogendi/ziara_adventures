@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Ziara</title>
+    <title>Ziara Adventures #TWENDEZIARA</title>
 
     <meta name="description" content="">
     <meta name="author" content="">
@@ -95,7 +95,7 @@
 
                     <!-- Name -->
                     <div class="page -scroll site-logo">
-                        <a href="#top"><img src="assets/img/mstile-150x150.png" width="100" height="63" alt="logo"></a>
+                        <a href="#top"><img src="assets/img/mstile-150x150.png" width="100" height="80" alt="logo"></a>
                     </div>
 
                 </div><!-- /.navbar-header -->
@@ -110,6 +110,8 @@
                         <div class="dropdown-menu">
                             <a class="dropdown-header" href="adventure_travel.php">Adventure travel</a><br>
                             <a class="dropdown-header" href="team_building.php">Team Building</a><br>
+                            <a class="dropdown-header" href="beach_adventure.php">Beach Adventure</a><br>
+                            <a class="dropdown-header" href="bush_adventure.php">Bush Adventure</a><br>
                         </div>
                     </li>
                     <li class="page-scroll"><a href="portfolio.php">Portfolio</a></li>
@@ -138,7 +140,7 @@
                     <!-- Review 1 -->
                     <div class="review">
                         <div class="rectangle">
-                            <img src="assets/img/review-0.jpg" class="img-res" alt="">
+                            <img src="assets/img/ein.jpg" class="img-res" alt="">
                         </div>
                         <p>Their all-inclusive packages are well planned. They make travel fun and the best part is that you don't have to break the bank to travel with them.
                         </p>
@@ -249,10 +251,10 @@
 
     <section class="section-networks blue-bg">
         <div class="container">
-            <a href="https://www.facebook.com/ZiaraAdventures" class="rectangle">
+            <a href="https://www.facebook.com/ZiaraAdventures" target="_blank" rel="noopener noreferrer" class="rectangle">
                 <i class="fa fa-facebook"></i>
             </a>
-            <a href="https://bit.ly/2Oi1tyN" class="rectangle">
+            <a href="https://bit.ly/2Oi1tyN" target="_blank" rel="noopener noreferrer" class="rectangle">
                 <i class="fa fa-instagram"></i>
             </a>
             <a href="#" class="rectangle">
@@ -267,23 +269,23 @@
 
 </main>
 
-<footer id="colophon" class="site-footer">
+    <footer id="colophon" class="site-footer">
 
-    <div class="container-fluid">
+        <div class="container-fluid">
 
-        <div class="page-scroll">
-            <a href="#top" class="rectangle">
-                <i class="fa fa-angle-double-up"></i>
-            </a>
+            <div class="page-scroll">
+                <a href="#top" class="rectangle">
+                    <i class="fa fa-angle-double-up"></i>
+                </a>
+            </div>
+
         </div>
 
-    </div>
+        <div class="container text-center">
+            <p class="copyright">&copy; <a href="">ZiaraAdventures</a> - 2022</p>
+        </div>
 
-    <div class="container text-center">
-        <p class="copyright">&copy; <a href="http://pixelperfect.mk/" target="_blank">ZiaraAdventures</a> - 2022</p>
-    </div>
-
-</footer><!-- /#footer -->
+    </footer><!-- /#footer -->
 
 </body>
 </html>

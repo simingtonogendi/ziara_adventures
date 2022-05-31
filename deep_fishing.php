@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Ziara</title>
+    <title>Ziara Adventures #TWENDEZIARA</title>
 
     <meta name="description" content="">
     <meta name="author" content="">
@@ -110,6 +110,8 @@
                         <div class="dropdown-menu">
                             <a class="dropdown-header" href="adventure_travel.php">Adventure travel</a><br>
                             <a class="dropdown-header" href="team_building.php">Team Building</a><br>
+                            <a class="dropdown-header" href="beach_adventure.php">Beach Adventure</a><br>
+                            <a class="dropdown-header" href="bush_adventure.php">Bush Adventure</a><br>
                         </div>
                     </li>
                     <li class="page-scroll"><a href="portfolio.php">Portfolio</a></li>
@@ -132,49 +134,68 @@
                     <section class="container">
                         <div>
                             <h1 style="font-size: 65px;">Deep-Sea Fishing in the Indian Ocean</h1>
-                            <img src="assets/img/fish.avif" width="1200" height="550" alt="">
+                            <br>
+                            <img src="assets/img/fish.avif" width="100%" height="auto" alt="">
+                            <br><br>
                             <p style="color: grey;font-size: 30px;">Deep-sea fishing has never really set in as a sport among the local Kenyan folk. In fact, many of the success stories in the sea are by foreigners who know the thrill of fishing as a sport and enjoy showing off their trophies.</p>
-                            <img src="assets/img/fisshy.avifcamp1.avif" width="1200" height="550" alt="">
+                            <br>
+                            <img src="assets/img/fish.avif" width="100%" height="auto" alt="">
+                            <br><br>
                             <p style="color: grey;font-size: 30px;">Deep-sea fishing in the Lamu archipelago waters is famous worldwide both for its variety and for the quantity of sport fish caught</p>
+                            <br>
                         </div>
                         <div>
                             <h1 style="font-size: 50px;">The Lamu archipelago waters</h1>
+                            <br>
                             <p style="color: grey;font-size: 30px;">Lamu Island is a natural spectacle that stands just off the coast of Mombasa. The town retains the beautiful architecture used centuries ago even before the British soldiers colonized Kenya. Apart from its beautiful scenery and beaches, Lamu Island is home to what is probably the biggest deep-sea fishing waters on the East African coast.</p>
                             <p style="color: grey;font-size: 30px;">The archipelago waters are home to some of the most popular sport fishing areas. The sheer volume of the fish caught along the Lamu and Mombasa coasts is amazing but not as great as the different kinds of fish found in those waters. Over the years, several large fish including shark, Marlin and Barracuda have been cited and caught along these coasts.</p>
+                            <br><br>
                         </div>
                         <div>
                             <h1 style="font-size: 50px;">Deep sea trophies</h1>
+                            <br>
                             <p style="color: grey;font-size: 30px;">Deep-sea skippers and fishermen love a good trip, and a great trip is one that brings forth big catches. There are several fish that are easily found in these waters and they include some of the following; Wahoo, Sailfish, Broadbill, Blue and Black Marlin, Striped Marlin, Billfish, Dorado, Kingfish, Barracuda, Mako shark and Tiger shark, Tuna and the Shortbill spearfish.</p>
                             <p style="color: grey;font-size: 30px;">Even though there are more than 40 different fish species in this part of the world, there are some that are more special than others. They include the following:</p>
+                            <br><br>
                         </div>
                         <ul>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">The Marlin</h1>
+                                <br>
                                 <p style="color: grey;font-size: 25px;">This is a very powerful and aggressive fish. A mature Marlin weighs up to 600 pounds and has the strength to reel you into the water when caught. This fish is capable of swimming very deep even when wounded and catching it could take almost twenty minutes even for a professional deep sea fisher.</p>
-                                <img src="assets/img/marlin.jpg" alt="">
+                                <br>
+                                <img src="assets/img/marlin.jpg" width="100%" height="auto" alt="">
+                                <br><br>
                                 <p style="color: grey;font-size: 25px;">Another kind of Marlin, the striped marlin is much easier to catch in the waters near Pemba Island. They are very agile and free swimmers. When caught, they give a spectacular show of acrobatics swimming in and out of the water in a bid to release the hook. Unlike the blue and black Marlin, the striped Marlin does not dive deep when injured; it leaps up into the air.</p>
+                                <br><br>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">The Wahoo and Swordfish</h1>
+                                <br>
                                 <p style="color: grey;font-size: 25px;">The Wahoo has created a name for itself as the fastest fish in the Kenyan waters. This fish has the ability to run with a line even when injured. This fish has very sharp teeth and is relatively harder to catch and reel in. The Broadbill swordfish is best described as the hardest fish to reel in. Many times it cuts the line with its very sharp sword as it dives deep into the ocean to avoid getting caught.</p>
-                                <img src="assets/img/wahoo.jpg" alt="">
+                                <br>
+                                <img src="assets/img/wahoo.jpg" width="100%" height="auto" alt="">
+                                <br><br>
                             </li>
                             <li style="font-size: 40px;">
                                 <h1 style="color: black;font-size: 50px;">The Shark</h1>
+                                <br>
                                 <p style="color: grey;font-size: 25px;">This fish is considered as the beast of the ocean thanks to its sharp sense of smell and teeth. This is one of the most prized fish since it is a rare catch. There are different kinds of shark found in these waters but the most popular are the Tiger and the Mako shark.</p>
-                                <img src="assets/img/shark.jpg" alt="">
+                                <br>
+                                <img src="assets/img/shark.jpg" width="100%" height="auto" alt="">
+                                <br><br>
                                 <p style="color: grey;font-size: 25px;">Deep sea fishing is a growing business along the coast and many companies are venturing into leasing fishing boats and gear. This means that in a few years time, deep sea fishing will be a booming tourist attraction.</p>
+                                <br>
                             </li>
                         </ul>
                         <br><br><br>
                         <div>
-                            <p style="color: grey;font-size: 25px;">Camping is indeed a great way to reconnect with nature and have lots of fun. To book your next camping trip, email us through travel@ziaraadventures.com</p>
+                            <h2>Why Adventure?</h2>
+                            <ul>
+                                <li><p style="font-size: 25px;color: #0b2e13;">Why do you go away? So that you can come back. So that you can see the place you came from with new eyes and extra colors. And the people there see you differently, too. Coming back to where you started is not the same as never leaving.</p></li>
+                                <li><p style="font-size: 25px;color: #0b2e13;"> And then there is the most dangerous risk of all – the risk of spending your life not doing what you want on the bet you can buy yourself the freedom to do it later.</p></li>
+                            </ul>
                         </div>
                         <br><br><br>
-                        <div>
-                            <p class="section-quote" style="color: darkblue;font-size: 35px;font-weight: bold">
-                                So if you are looking for budget-friendly adventures, drop us an email at travel@ziaraadventures.com. Let’s explore and create memories together!
-                            </p>
-                        </div>
 
                     </section>
                 </div>
@@ -184,19 +205,19 @@
                 <div class="col-md-3">
                     <h1>Featured</h1>
                     <ul class="submenu">
-                        <li style="font-size: 25px;"><a href="">What's in a travel shoe?</a></li>
-                        <li style="font-size: 25px;"><a href="">Travel lessons from WRC safari rally in Naivasha</a></li>
-                        <li style="font-size: 25px;"><a href="">Travel and enjoy: Mombasa County 001</a></li>
-                        <li style="font-size: 25px;"><a href="">Importance of team building</a></li>
+                        <li style="font-size: 25px;"><a href="travel_shoe.php">What's in a travel shoe?</a></li>
+                        <li style="font-size: 25px;"><a href="travel_lessons.php">Travel lessons from WRC safari rally in Naivasha</a></li>
+                        <li style="font-size: 25px;"><a href="mombasa.php">Travel and enjoy: Mombasa County 001</a></li>
+                        <li style="font-size: 25px;"><a href="team.php">Importance of team building</a></li>
                     </ul>
                     <hr>
                     <img class="center-block" src="assets/img/mstile-150x150.png" height="300" width="300" alt="">
                     <hr>
                     <h1>Check it out!</h1>
                     <ul class="submenu">
-                        <li style="font-size: 25px;"><a href="">Places to go camping in Kenya</a></li>
-                        <li style="font-size: 25px;"><a href="">Best picks for bird watching in kenya</a></li>
-                        <li style="font-size: 25px;"><a href="">Deep sea fishing in the indian Ocean</a></li>
+                        <li style="font-size: 25px;"><a href="camping.php">Places to go camping in Kenya</a></li>
+                        <li style="font-size: 25px;"><a href="bird-watching.php">Best picks for bird watching in kenya</a></li>
+                        <li style="font-size: 25px;"><a href="deep_fishing.php">Deep sea fishing in the indian Ocean</a></li>
 
                     </ul>
                     <br><br><br><br>
@@ -209,12 +230,20 @@
             </div>
         </section>
 
+        <section class="call">
+            <div>
+                <p style="color: darkblue;font-size: 35px;font-weight: bold">
+                    So if you are looking for budget-friendly adventures, drop us an email at travel@ziaraadventures.com. Let’s explore and create memories together!
+                </p>
+            </div>
+        </section>
+
         <section class="section-networks blue-bg">
             <div class="container">
-                <a href="https://www.facebook.com/ZiaraAdventures" class="rectangle">
+                <a href="https://www.facebook.com/ZiaraAdventures" target="_blank" rel="noopener noreferrer" class="rectangle">
                     <i class="fa fa-facebook"></i>
                 </a>
-                <a href="https://bit.ly/2Oi1tyN" class="rectangle">
+                <a href="https://bit.ly/2Oi1tyN" target="_blank" rel="noopener noreferrer" class="rectangle">
                     <i class="fa fa-instagram"></i>
                 </a>
                 <a href="#" class="rectangle">
@@ -223,6 +252,7 @@
                 <a href="#" class="rectangle">
                     <i class="fa fa-youtube-play"></i>
                 </a>
+
             </div>
         </section><!-- /.section-networks-->
 
@@ -230,8 +260,18 @@
 
     <footer id="colophon" class="site-footer">
 
+        <div class="container-fluid">
+
+            <div class="page-scroll">
+                <a href="#top" class="rectangle">
+                    <i class="fa fa-angle-double-up"></i>
+                </a>
+            </div>
+
+        </div>
+
         <div class="container text-center">
-            <p class="copyright">&copy; <a href="" target="_blank">ZiaraAdventures</a> - 2022</p>
+            <p class="copyright">&copy; <a href="">ZiaraAdventures</a> - 2022</p>
         </div>
 
     </footer><!-- /#footer -->
